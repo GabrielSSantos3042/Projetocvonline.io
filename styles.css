@@ -1,0 +1,58 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 2em;
+    background-color: #92b9db; /* Cor de fundo azul */
+    text-align: center; /* Centraliza o conteúdo */
+  }
+  
+  header {
+    background: #333;
+    color: #fff;
+    padding: 1em 0;
+    text-align: center;
+  }
+  
+  nav ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin: 0 10px;
+  }
+  
+  nav ul li a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  main {
+    padding: 2em;
+  }
+  
+  section {
+    margin-bottom: 2em;
+  }
+  
+  h2 {
+    border-bottom: 2px solid #333;
+  }
+  
+  /* Estilo da imagem */
+  #home img, #sobre img, #formacao img, #portfolio img, #contato img {
+    max-width: 40%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+  }
+  
+  footer {
+    background: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1em 0;
+  }
+  
